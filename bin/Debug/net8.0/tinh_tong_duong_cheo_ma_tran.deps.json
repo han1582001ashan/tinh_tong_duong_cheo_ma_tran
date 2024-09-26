@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "tinh_tong_duong_cheo_ma_tran/1.0.0": {
+        "runtime": {
+          "tinh_tong_duong_cheo_ma_tran.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "tinh_tong_duong_cheo_ma_tran/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
